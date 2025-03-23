@@ -24,7 +24,7 @@ ReelReplyAI is an automated Instagram direct message reply bot designed to respo
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/shourypandya/ReelReplyAI.git
+   git clone https://github.com/ShouryPandya/ReelReplyAI.git
    ```  
 2. Navigate to the project directory:  
    ```sh
