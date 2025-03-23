@@ -1,5 +1,4 @@
-# ReelReplyAI
-# ReelReplyAI  
+# ReelReplyAI 
 
 ## Overview  
 ReelReplyAI is an automated Instagram direct message reply bot designed to respond to reel messages. It analyzes top comments from a reel and generates appropriate replies using AI. The bot runs continuously, ensuring timely and context-aware responses.  
@@ -36,6 +35,7 @@ ReelReplyAI is an automated Instagram direct message reply bot designed to respo
    pip install instagrapi google-generativeai apify-client python-dotenv
    ```  
 4. Set up environment variables:  
+   - Rename the file name .env.example to .env only
    - Create a `.env` file in the project root.  
    - Add your credentials:  
      ```
