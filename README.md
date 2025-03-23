@@ -55,7 +55,7 @@ ReelReplyAI is an automated Instagram direct message reply bot designed to respo
 
 Once the setup is complete, run the bot using:  
 ```sh
-python reelreply.py
+python main.py
 ```  
 If everything is configured correctly, the bot will start checking for new reel messages every 10 seconds and respond accordingly.  
 
