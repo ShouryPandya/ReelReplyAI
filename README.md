@@ -61,7 +61,7 @@ If everything is configured correctly, the bot will start checking for new reel 
 
 ## Usage  
 
-### How It Works  
+### How It Works: 
 - The bot detects new Instagram reel messages.  
 - It retrieves the top three comments from the reel.  
 - AI generates a response based on these comments.  
